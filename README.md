@@ -1,2 +1,3 @@
 # hello-world
-a new repository
+
+Hi rhenze here! I like to learn programming to reprogram my imune system.
